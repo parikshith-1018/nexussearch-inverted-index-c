@@ -1,0 +1,7 @@
+Machine learning and data science rely on structured data.
+Efficient storage and retrieval are key concepts.
+
+Binary search trees maintain sorted data.
+Hash functions map keys to values quickly.
+
+Phrase matching is important in modern search systems.

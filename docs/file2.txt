@@ -1,0 +1,7 @@
+Search engines use inverted indexing techniques.
+Data structures like trees and hash tables are essential.
+
+Phrase search improves accuracy in document retrieval.
+Efficient indexing reduces search time significantly.
+
+Computer science involves algorithms and data processing.
