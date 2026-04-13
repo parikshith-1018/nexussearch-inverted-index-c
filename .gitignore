@@ -1,0 +1,16 @@
+# Compiled files
+*.out
+*.exe
+*.o
+
+# Mac / Linux temp files
+.DS_Store
+
+# Windows temp files
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
